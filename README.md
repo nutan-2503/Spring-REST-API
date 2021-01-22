@@ -5,7 +5,7 @@
 4. To run the application using docker, follow the steps:
    - Install docker
    - Run the command, to get the mongo image: 
-   '''docker
+   ````docker
    docker pull mongo
-   '''
+   ````
    - We can check the docker images using 
