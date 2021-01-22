@@ -4,5 +4,8 @@
 3. The API testing is done using swagger.
 4. To run the application using docker, follow the steps:
    - Install docker
-   - Run the command: "docker pull mongo" to get the mongo image
-   - 
+   - Run the command, to get the mongo image: 
+   '''docker
+   docker pull mongo
+   '''
+   - We can check the docker images using 
